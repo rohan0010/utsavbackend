@@ -1,0 +1,18 @@
+image: ubuntu
+
+build_deploy_stage:
+  stage: deploy
+  only:
+    - staging
+  before_script:
+    - apt-get update && apt-get install -y openssh-client
+    - eval $(ssh-agent -s)
+    - ssh-add <(echo "$SSH_KEY_STAGING")
+    - mkdir -p ~/.ssh
+    - '[[ -f /.dockerenv ]] && echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config'
+
+
+  script:
+    - ssh $USER_STAGING@$SERVER_STAGING git --git-dir=/root/$PROJECT/.git --work-tree=/root/$PROJECT pull origin staging
+    - ssh $USER_STAGING@$SERVER_STAGING npm --prefix /root/$PROJECT install
+    - ssh $USER_STAGING@$SERVER_STAGING forever restart /root/$PROJECT/index.js

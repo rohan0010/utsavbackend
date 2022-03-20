@@ -1,0 +1,248 @@
+[2021-06-01T18:19:16.990] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:19:17.170] [DEBUG] debug - init>createSuperAdmin
+[2021-06-01T18:19:17.170] [DEBUG] debug - crud role createsuperadmin
+[2021-06-01T18:19:17.172] [DEBUG] debug - crud role getRole
+[2021-06-01T18:19:17.173] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T18:19:17.175] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T18:19:17.175] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T18:19:17.247] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:19:17.254] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:19:17.258] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:19:17.351] [DEBUG] debug - { inspect: [Function: inspect] }
+[2021-06-01T18:21:01.257] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:21:01.386] [DEBUG] debug - init>createSuperAdmin
+[2021-06-01T18:21:01.387] [DEBUG] debug - crud role createsuperadmin
+[2021-06-01T18:21:01.388] [DEBUG] debug - crud role getRole
+[2021-06-01T18:21:01.389] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T18:21:01.391] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T18:21:01.391] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T18:21:01.434] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:21:01.440] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:21:01.445] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:21:01.482] [DEBUG] debug - { inspect: [Function: inspect] }
+[2021-06-01T18:22:53.300] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:22:53.487] [DEBUG] debug - init>createSuperAdmin
+[2021-06-01T18:22:53.487] [DEBUG] debug - crud role createsuperadmin
+[2021-06-01T18:22:53.489] [DEBUG] debug - crud role getRole
+[2021-06-01T18:22:53.490] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T18:22:53.492] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T18:22:53.492] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T18:22:53.560] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:22:53.567] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:22:53.571] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:22:53.608] [DEBUG] debug - { inspect: [Function: inspect] }
+[2021-06-01T18:24:38.144] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:24:38.256] [DEBUG] debug - init>createSuperAdmin
+[2021-06-01T18:24:38.256] [DEBUG] debug - crud role createsuperadmin
+[2021-06-01T18:24:38.258] [DEBUG] debug - crud role getRole
+[2021-06-01T18:24:38.258] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T18:24:38.260] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T18:24:38.261] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T18:24:38.306] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:24:38.313] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:24:38.318] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:24:38.357] [DEBUG] debug - { inspect: [Function: inspect] }
+[2021-06-01T18:27:26.711] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:27:26.819] [DEBUG] debug - init>createSuperAdmin
+[2021-06-01T18:27:26.820] [DEBUG] debug - crud role createsuperadmin
+[2021-06-01T18:27:26.822] [DEBUG] debug - crud role getRole
+[2021-06-01T18:27:26.822] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T18:27:26.824] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T18:27:26.825] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T18:27:26.865] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:27:26.875] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:27:26.879] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:27:26.912] [DEBUG] debug - { inspect: [Function: inspect] }
+[2021-06-01T18:29:39.010] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:29:39.118] [DEBUG] debug - init>createSuperAdmin
+[2021-06-01T18:29:39.119] [DEBUG] debug - crud role createsuperadmin
+[2021-06-01T18:29:39.121] [DEBUG] debug - crud role getRole
+[2021-06-01T18:29:39.121] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T18:29:39.123] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T18:29:39.123] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T18:29:39.166] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:29:39.173] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:29:39.178] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:29:39.216] [DEBUG] debug - { inspect: [Function: inspect] }
+[2021-06-01T18:29:47.112] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:29:47.219] [DEBUG] debug - init>createSuperAdmin
+[2021-06-01T18:29:47.220] [DEBUG] debug - crud role createsuperadmin
+[2021-06-01T18:29:47.221] [DEBUG] debug - crud role getRole
+[2021-06-01T18:29:47.222] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T18:29:47.224] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T18:29:47.224] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T18:29:47.266] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:29:47.273] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:29:47.277] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:29:47.314] [DEBUG] debug - { inspect: [Function: inspect] }
+[2021-06-01T18:31:33.118] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:31:33.225] [DEBUG] debug - init>createSuperAdmin
+[2021-06-01T18:31:33.226] [DEBUG] debug - crud role createsuperadmin
+[2021-06-01T18:31:33.227] [DEBUG] debug - crud role getRole
+[2021-06-01T18:31:33.228] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T18:31:33.230] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T18:31:33.230] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T18:31:33.272] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:31:33.279] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:31:33.283] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:31:33.320] [DEBUG] debug - { inspect: [Function: inspect] }
+[2021-06-01T18:31:37.732] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:31:37.838] [DEBUG] debug - init>createSuperAdmin
+[2021-06-01T18:31:37.838] [DEBUG] debug - crud role createsuperadmin
+[2021-06-01T18:31:37.840] [DEBUG] debug - crud role getRole
+[2021-06-01T18:31:37.841] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T18:31:37.842] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T18:31:37.843] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T18:31:37.885] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:31:37.891] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:31:37.895] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:31:37.932] [DEBUG] debug - { inspect: [Function: inspect] }
+[2021-06-01T18:33:04.258] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:33:04.364] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T18:33:04.367] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T18:33:04.368] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T18:33:04.410] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:33:04.417] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:33:04.421] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:33:04.457] [DEBUG] debug - { inspect: [Function: inspect] }
+[2021-06-01T18:34:36.929] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:34:37.042] [DEBUG] debug - init>createSuperAdmin
+[2021-06-01T18:34:37.043] [DEBUG] debug - crud role createsuperadmin
+[2021-06-01T18:34:37.044] [DEBUG] debug - crud role getRole
+[2021-06-01T18:34:37.045] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T18:34:37.047] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T18:34:37.047] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T18:34:37.090] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:34:37.096] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:34:37.101] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:34:37.137] [DEBUG] debug - { inspect: [Function: inspect] }
+[2021-06-01T18:34:41.489] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:34:41.594] [DEBUG] debug - init>createSuperAdmin
+[2021-06-01T18:34:41.595] [DEBUG] debug - crud role createsuperadmin
+[2021-06-01T18:34:41.597] [DEBUG] debug - crud role getRole
+[2021-06-01T18:34:41.597] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T18:34:41.599] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T18:34:41.599] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T18:34:41.643] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:34:41.650] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:34:41.658] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:34:41.692] [DEBUG] debug - { inspect: [Function: inspect] }
+[2021-06-01T18:35:54.049] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:35:54.158] [DEBUG] debug - init>createSuperAdmin
+[2021-06-01T18:35:54.158] [DEBUG] debug - crud role createsuperadmin
+[2021-06-01T18:35:54.160] [DEBUG] debug - crud role getRole
+[2021-06-01T18:35:54.161] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T18:35:54.163] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T18:35:54.163] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T18:35:54.205] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:35:54.212] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:35:54.216] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:35:54.254] [DEBUG] debug - { inspect: [Function: inspect] }
+[2021-06-01T18:57:30.599] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:57:30.706] [DEBUG] debug - init>createSuperAdmin
+[2021-06-01T18:57:30.707] [DEBUG] debug - crud role createsuperadmin
+[2021-06-01T18:57:30.708] [DEBUG] debug - crud role getRole
+[2021-06-01T18:57:30.709] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T18:57:30.711] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T18:57:30.711] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T18:57:30.753] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:57:30.760] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:57:30.764] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T18:57:30.801] [DEBUG] debug - { inspect: [Function: inspect] }
+[2021-06-01T19:01:50.127] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T19:01:50.235] [DEBUG] debug - init>createSuperAdmin
+[2021-06-01T19:01:50.235] [DEBUG] debug - crud role createsuperadmin
+[2021-06-01T19:01:50.237] [DEBUG] debug - crud role getRole
+[2021-06-01T19:01:50.237] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T19:01:50.239] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T19:01:50.240] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T19:01:50.283] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T19:01:50.290] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T19:01:50.294] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T19:10:08.898] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T19:10:09.007] [DEBUG] debug - init>createSuperAdmin
+[2021-06-01T19:10:09.008] [DEBUG] debug - crud role createsuperadmin
+[2021-06-01T19:10:09.009] [DEBUG] debug - crud role getRole
+[2021-06-01T19:10:09.010] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T19:10:09.012] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T19:10:09.012] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T19:10:09.054] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T19:10:09.061] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T19:10:09.066] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T19:17:29.645] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T19:17:29.752] [DEBUG] debug - init>createSuperAdmin
+[2021-06-01T19:17:29.752] [DEBUG] debug - crud role createsuperadmin
+[2021-06-01T19:17:29.754] [DEBUG] debug - crud role getRole
+[2021-06-01T19:17:29.755] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T19:17:29.757] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T19:17:29.757] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T19:17:29.799] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T19:17:29.806] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T19:17:29.810] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T19:17:29.863] [DEBUG] debug - { inspect: [Function: inspect] }
+[2021-06-01T19:21:45.814] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T19:21:45.932] [DEBUG] debug - init>createSuperAdmin
+[2021-06-01T19:21:45.932] [DEBUG] debug - crud role createsuperadmin
+[2021-06-01T19:21:45.934] [DEBUG] debug - crud role getRole
+[2021-06-01T19:21:45.934] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T19:21:45.936] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T19:21:45.937] [DEBUG] debug - crud role checkAndUpdate
+[2021-06-01T19:21:45.980] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T19:21:45.986] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T19:21:45.991] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T19:21:46.048] [DEBUG] debug - crud role createsuperadminrole
+[2021-06-01T19:21:46.048] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T19:21:46.049] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T19:21:46.067] [DEBUG] debug - crud result
+[2021-06-01T19:21:46.068] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T19:21:46.077] [DEBUG] debug - crud result
+[2021-06-01T19:21:46.144] [DEBUG] debug - crud result
+[2021-06-01T19:21:46.155] [DEBUG] debug - crud result
+[2021-06-01T19:21:46.155] [DEBUG] debug - crud role fillRights
+[2021-06-01T19:21:46.173] [DEBUG] debug - crud result
+[2021-06-01T19:21:46.279] [DEBUG] debug - crud result
+[2021-06-01T19:21:46.279] [DEBUG] debug - crud common sendLink
+[2021-06-01T19:21:46.279] [DEBUG] debug - config utils randomStringGenerate
+[2021-06-01T19:21:46.280] [DEBUG] debug - utils create mail verificationlink { type: 'verificationlink' }
+[2021-06-01T19:21:46.281] [DEBUG] debug - config utils sendMail
+[2021-06-01T19:21:46.302] [DEBUG] debug - crud result
+[2021-06-01T19:21:46.709] [ERROR] debug - { inspect: [Function: inspect] }
+[2021-06-01T19:21:46.711] [ERROR] debug - error sending mail
+[2022-03-19T23:38:48.990] [DEBUG] debug - config utils randomStringGenerate
+[2022-03-19T23:38:49.032] [DEBUG] debug - init>createSuperAdmin
+[2022-03-19T23:38:49.033] [DEBUG] debug - crud role createsuperadmin
+[2022-03-19T23:38:49.033] [DEBUG] debug - crud role getRole
+[2022-03-19T23:38:49.033] [DEBUG] debug - crud role checkAndUpdate
+[2022-03-19T23:38:49.034] [DEBUG] debug - crud role checkAndUpdate
+[2022-03-19T23:38:49.034] [DEBUG] debug - crud role checkAndUpdate
+[2022-03-19T23:38:49.052] [DEBUG] debug - config utils randomStringGenerate
+[2022-03-19T23:38:49.055] [DEBUG] debug - config utils randomStringGenerate
+[2022-03-19T23:38:49.056] [DEBUG] debug - config utils randomStringGenerate
+[2022-03-19T23:39:44.282] [DEBUG] debug - config utils randomStringGenerate
+[2022-03-19T23:39:44.325] [DEBUG] debug - init>createSuperAdmin
+[2022-03-19T23:39:44.325] [DEBUG] debug - crud role createsuperadmin
+[2022-03-19T23:39:44.326] [DEBUG] debug - crud role getRole
+[2022-03-19T23:39:44.326] [DEBUG] debug - crud role checkAndUpdate
+[2022-03-19T23:39:44.327] [DEBUG] debug - crud role checkAndUpdate
+[2022-03-19T23:39:44.327] [DEBUG] debug - crud role checkAndUpdate
+[2022-03-19T23:39:44.345] [DEBUG] debug - config utils randomStringGenerate
+[2022-03-19T23:39:44.347] [DEBUG] debug - config utils randomStringGenerate
+[2022-03-19T23:39:44.348] [DEBUG] debug - config utils randomStringGenerate
+[2022-03-19T23:39:44.363] [DEBUG] debug - crud role createsuperadminrole
+[2022-03-19T23:39:44.363] [DEBUG] debug - config utils randomStringGenerate
+[2022-03-19T23:39:44.363] [DEBUG] debug - config utils randomStringGenerate
+[2022-03-19T23:39:44.366] [DEBUG] debug - crud result
+[2022-03-19T23:39:44.366] [DEBUG] debug - config utils randomStringGenerate
+[2022-03-19T23:39:44.770] [DEBUG] debug - crud result
+[2022-03-19T23:39:45.174] [DEBUG] debug - crud result
+[2022-03-19T23:39:45.250] [DEBUG] debug - crud result
+[2022-03-19T23:39:45.428] [DEBUG] debug - crud result
+[2022-03-19T23:39:45.429] [DEBUG] debug - crud common sendLink
+[2022-03-19T23:39:45.429] [DEBUG] debug - config utils randomStringGenerate
+[2022-03-19T23:39:45.431] [DEBUG] debug - utils create mail verificationlink { type: 'verificationlink' }
+[2022-03-19T23:39:45.433] [DEBUG] debug - config utils sendMail
+[2022-03-19T23:39:45.864] [DEBUG] debug - crud result
+[2022-03-19T23:39:45.865] [DEBUG] debug - crud role fillRights
+[2022-03-19T23:39:45.962] [DEBUG] debug - crud result
+[2022-03-19T23:39:46.551] [ERROR] debug - { inspect: [Function: inspect] }
+[2022-03-19T23:39:46.555] [ERROR] debug - error sending mail
