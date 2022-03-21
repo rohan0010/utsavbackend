@@ -2139,8 +2139,8 @@ var createOrder1 = (request, userData, callback) => {
                             var transporter = nodeMailer.createTransport({
                                 service: 'gmail',
                                 auth: {
-                                  user: 'utsavplastotech@gmail.com',
-                                  pass: 'aayansh@2020',
+                                  user: 'codingrohan835@gmail.com',
+                                  pass: 'coding@2021',
                                 },
                                 tls: {
                                   rejectUnauthorized: false,
@@ -2148,8 +2148,8 @@ var createOrder1 = (request, userData, callback) => {
                               });
                                    // setup e-mail data with unicode symbols
                                    var mailOptions = {
-                                       from: 'utsavplastotech@gmail.com', // sender address
-                                       to: ['utsavplastotech@gmail.com','pramodjha10@gmail.com','pkseherbal@gmail.com'], // list of receivers
+                                       from: 'codingrohan835@gmail.com', // sender address
+                                       to: ['codingrohan835@gmail.com','pramodjha10@gmail.com','pkseherbal@gmail.com'], // list of receivers
                                        subject: "Insufficient Stock", // Subject line
                                        text: "Update Stock", // plaintext body
                                        html: `

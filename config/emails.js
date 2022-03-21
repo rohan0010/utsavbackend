@@ -1,7 +1,7 @@
 'use strict';
 
 const emails = {
-    admin: "utsavplastotech@gmail.com",
+    admin: "codingrohan835@gmail.com",
 
     verification: {
         subject: "Verify your Email",

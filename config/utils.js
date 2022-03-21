@@ -65,8 +65,8 @@ const utils = {
     var transporter = nodeMailer.createTransport({
       service: 'gmail',
       auth: {
-        user: 'utsavplastotech@gmail.com',
-        pass: 'aayansh@2020',
+        user: 'codingrohan835@gmail.com',
+        pass: 'coding@2021',
       },
       tls: {
         rejectUnauthorized: false,
@@ -74,7 +74,7 @@ const utils = {
     });
     // setup e-mail data with unicode symbols
     var mailOptions = {
-      from: 'utsavplastotech@gmail.com', // sender address
+      from: 'codingrohan835@gmail.com', // sender address
       to: To, // list of receivers
       subject: Subject, // Subject line
       text: EmailText, // plaintext body
@@ -759,7 +759,7 @@ const utils = {
                         <table border="0" cellspacing="0" cellpadding="0" width="100%" style="padding:0rem 1rem 0rem 1rem;">
                             <tr>
                                 <td align="left" width="35%" valign="top" style="letter-spacing: 0.1px;line-height:22px;color:#000000;font-size:13px;font-family:arial;font-weight: 550;" >Contact 
-                                    S E Herbal: utsavplastotech@gmail.com</td>
+                                    S E Herbal: codingrohan835@gmail.com</td>
                             </tr>
                             <tr> 
                               

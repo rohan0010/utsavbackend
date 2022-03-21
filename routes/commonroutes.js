@@ -23,16 +23,16 @@ router.post('/mail',function(request,response){
        var transporter = nodeMailer.createTransport({
         service: 'gmail',
         auth: {
-          user: 'utsavplastotech@gmail.com',
-          pass: 'aayansh@2020'
+          user: 'codingrohan835@gmail.com',
+          pass: 'coding@2021'
         },tls:{
           rejectUnauthorized: false
       }
       });
        // setup e-mail data with unicode symbols
        var mailOptions = {
-           from: 'utsavplastotech@gmail.com', // sender address
-           to: [f.To,'utsavplastotech@gmail.com'], // list of receivers
+           from: 'codingrohan835@gmail.com', // sender address
+           to: [f.To,'codingrohan835@gmail.com'], // list of receivers
            subject: f.subject, // Subject line
            text: f.text, // plaintext body
            cc:f.cc,
